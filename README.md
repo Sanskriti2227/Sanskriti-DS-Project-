@@ -1,2 +1,2 @@
-# Sanskriti-DS-Project-
-Stock Analysis Prediction 
+Revolutionizing Stock Price Forecasting: Using LSTM as a "Game Changer"
+
